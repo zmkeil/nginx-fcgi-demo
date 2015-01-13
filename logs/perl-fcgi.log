@@ -1,0 +1,101 @@
+
+
+[2015-01-14 1:34]   Starting Nginx-cfgi
+[2015-01-14 1:34]   Running with 500 UID
+[2015-01-14 1:34]   Perl 5.010001
+[2015-01-14 1:34]   Testing socket options
+[2015-01-14 1:34]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 1:34]   Socket created
+[2015-01-14 1:34]   Using PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 1:34]   PID number 18888
+[2015-01-14 1:34]   Forking worker process with PID 18889
+[2015-01-14 1:34]   Update PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 1:34]   Parent process 18888 is exiting
+
+
+[2015-01-14 1:40]   Starting Nginx-cfgi
+[2015-01-14 1:40]   Running with 500 UID
+[2015-01-14 1:40]   Perl 5.010001
+[2015-01-14 1:40]   Testing socket options
+[2015-01-14 1:40]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 1:40]   Can not use PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid, already exists.
+
+
+[2015-01-14 1:40]   Starting Nginx-cfgi
+[2015-01-14 1:40]   Running with 500 UID
+[2015-01-14 1:40]   Perl 5.010001
+[2015-01-14 1:40]   Testing socket options
+[2015-01-14 1:40]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 1:40]   Socket created
+[2015-01-14 1:40]   Using PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 1:40]   PID number 19228
+[2015-01-14 1:40]   Forking worker process with PID 19229
+[2015-01-14 1:40]   Update PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 1:40]   Parent process 19228 is exiting
+
+
+[2015-01-14 2:30]   Starting Nginx-cfgi
+[2015-01-14 2:30]   Running with 500 UID
+[2015-01-14 2:30]   Perl 5.010001
+[2015-01-14 2:30]   Testing socket options
+[2015-01-14 2:30]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 2:30]   Socket created
+[2015-01-14 2:30]   Using PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:30]   PID number 21852
+[2015-01-14 2:30]   Forking worker process with PID 21853
+[2015-01-14 2:30]   Update PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:30]   Parent process 21852 is exiting
+[2015-01-14 2:31]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:31]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:32]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+
+
+[2015-01-14 2:32]   Starting Nginx-cfgi
+[2015-01-14 2:32]   Running with 500 UID
+[2015-01-14 2:32]   Perl 5.010001
+[2015-01-14 2:32]   Testing socket options
+[2015-01-14 2:32]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 2:32]   Socket created
+[2015-01-14 2:32]   Using PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:32]   PID number 21976
+[2015-01-14 2:32]   Forking worker process with PID 21977
+[2015-01-14 2:32]   Update PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:32]   Parent process 21976 is exiting
+[2015-01-14 2:32]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:32]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+
+
+[2015-01-14 2:33]   Starting Nginx-cfgi
+[2015-01-14 2:33]   Running with 500 UID
+[2015-01-14 2:33]   Perl 5.010001
+[2015-01-14 2:33]   Testing socket options
+[2015-01-14 2:33]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 2:33]   Socket created
+[2015-01-14 2:33]   Using PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:33]   PID number 22040
+[2015-01-14 2:33]   Forking worker process with PID 22041
+[2015-01-14 2:33]   Update PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:33]   Parent process 22040 is exiting
+[2015-01-14 2:36]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:36]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:37]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:37]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:37]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:37]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:40]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:44]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+
+
+[2015-01-14 2:45]   Starting Nginx-cfgi
+[2015-01-14 2:45]   Running with 500 UID
+[2015-01-14 2:45]   Perl 5.010001
+[2015-01-14 2:45]   Testing socket options
+[2015-01-14 2:45]   Deamon listening at UNIX socket /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.sock
+[2015-01-14 2:45]   Socket created
+[2015-01-14 2:45]   Using PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:45]   PID number 22677
+[2015-01-14 2:45]   Forking worker process with PID 22678
+[2015-01-14 2:45]   Update PID file /home/zmkeil/nginx/apps/nginx-fcgi-demo//logs/perl-fcgi.pid
+[2015-01-14 2:45]   Parent process 22677 is exiting
+[2015-01-14 2:45]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
+[2015-01-14 2:45]   Error: No such CGI app - /home/zmkeil/nginx/apps/nginx-fcgi-demo/html/test.cgi may not exist or is not executable by this process.
